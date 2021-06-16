@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T12:12:29.744Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.7.10" etag="MUi4c4Zg3HurqcoEE9x-" type="github"><diagram id="j-cLxD53qzkGqGsu97S8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-16T12:15:16.822Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="VCVk9YIJUGDqt26m1oqo" version="14.7.10" type="github">
+  <diagram id="j-cLxD53qzkGqGsu97S8" name="Page-1">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RY90odzEGjkxs-bCc27x-1" value="Нам необходимо разработать интернет-ресурс для фанатского сервера одной известной MMORPG — что-то вроде &#xa;доски объявлений. Пользователи нашего ресурса должны иметь возможность зарегистрироваться в нём по e-mail, &#xa;получив письмо с кодом подтверждения регистрации. После регистрации им становится доступно создание и &#xa;редактирование объявлений. Объявления состоят из заголовка и текста, внутри которого могут быть картинки, &#xa;встроенные видео и другой контент. Пользователи могут отправлять отклики на объявления других пользователей, &#xa;состоящие из простого текста. При отправке отклика пользователь должен получить e-mail с оповещением о нём. &#xa;Также пользователю должна быть доступна приватная страница с откликами на его объявления, внутри которой он &#xa;может фильтровать отклики по объявлениям, удалять их и принимать (при принятии отклика пользователю, &#xa;оставившему отклик, также должно прийти уведомление). Кроме того, пользователь обязательно должен определить &#xa;объявление в одну из следующих категорий: Танки, Хилы, ДД, Торговцы, Гилдмастеры, Квестгиверы, Кузнецы, &#xa;Кожевники, Зельевары, Мастера заклинаний.&#xa;&#xa;&#xa;Также мы бы хотели иметь возможность отправлять пользователям новостные рассылки." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="760" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
