@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T09:02:45.303Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wSEYmLCKwirXGfh1k1OO" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T21:22:46.665Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wDno1QMKHWdkKPa54nUY" version="14.8.6" type="github">
   <diagram id="j-cLxD53qzkGqGsu97S8" name="Page-1">
-    <mxGraphModel dx="679" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,9 +38,20 @@
             <mxPoint x="340" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cuz2iEU1eF1bbwuy9DtP-25" value="Текст" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Cuz2iEU1eF1bbwuy9DtP-24" connectable="0" vertex="1">
+        <mxCell id="Cuz2iEU1eF1bbwuy9DtP-25" value="Отправитель" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Cuz2iEU1eF1bbwuy9DtP-24" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aq3EBv-36VjK50dc3W6F-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.192;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cuz2iEU1eF1bbwuy9DtP-20" target="Cuz2iEU1eF1bbwuy9DtP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Текст" id="aq3EBv-36VjK50dc3W6F-5">
+          <mxCell style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="aq3EBv-36VjK50dc3W6F-4">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
